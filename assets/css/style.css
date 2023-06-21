@@ -398,7 +398,10 @@ text-align: justify !important;}
   background: darkgreen;
   box-shadow: 0 8px 28px rgba(32, 107, 251, 0.45);
 }
+.more-about:hover{
+    color: darkgreen;
 
+}
 #hero .btn-watch-video {
   font-size: 16px;
   display: inline-block;
