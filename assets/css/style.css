@@ -91,9 +91,9 @@ h6 {
 #header .logo img {
   max-height: 40px;
 }
-.about img{
+/*.about img{
   border: 1px limegreen solid;
-}
+}*/
 @media (max-width: 991px) {
   #header {
     padding: 12px 0;
